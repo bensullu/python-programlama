@@ -101,6 +101,7 @@ for i in range(1,11):
         if (sonuc)%2==1 and sonuc>11 and sonuc<70:
             sayac+=1
             print(f"{sayac} kadar sonuç vardır {i}x{j}={sonuc}")"""
+
     
 
 
